@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lulu58
-- 👀 I’m interested in underwater orienteering, IoT, ... .
-- 🌱 I’m currently learning git and dotnet core.
+- 👀 I’m interested in underwater orienteering, scuba diving, IoT, programming ... .
+- 🌱 I’m currently learning git and dotnet core / maui.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
